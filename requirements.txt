@@ -1,4 +1,12 @@
+astroid==4.0.4
+dill==0.4.1
+isort==8.0.1
+mccabe==0.7.0
 numpy==2.4.6
 pandas==3.0.3
+pillow==12.2.0
+platformdirs==4.10.0
+pylint==4.0.5
 python-dateutil==2.9.0.post0
 six==1.17.0
+tomlkit==0.15.0
